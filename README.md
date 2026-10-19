@@ -1,4 +1,5 @@
 ## hello there
+call me jeb and heres some stuff about me
 
 <!--
 **lejlizzle/lejlizzle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
